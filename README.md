@@ -1,4 +1,4 @@
 # snowflake
-2 Python files for snowflake drawings.
+Python files for a snowflake drawing.
 # warning
 Needs Python 3.
