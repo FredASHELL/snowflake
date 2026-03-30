@@ -1,4 +1,4 @@
 # snowflake
 Python files for a snowflake drawing.
 # warning
-Needs Python 3.
+Needs macOS. Needs Python 3. App needs Automator.
